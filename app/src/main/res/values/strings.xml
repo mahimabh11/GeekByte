@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GeekByte</string>
+    <string name="question1">What is your name? <font color='#FF0000'>*</font></string>
+    <string name="value1">Update</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="edit">Edit Profile</string>
+    <string name="question2">What is your phone number? <font color='#FF0000'>*</font></string>
+    <string name="ph">Your phone number</string>
+    <string name="enter2">xxx-xxx-xxxx</string>
+    <string name="em">Your email address</string>
+    <string name="enter3">example@gmail.com</string>
+    <string name="question3">What is your email? <font color='#FF0000'>*</font></string>
+    <string name="bio">Write a little about yourself. Do you like chatting? Are you a smoker? Do you bring pets with you? Etc.</string>
+    <string name="question4">What type of passenger are you? <font color='#FF0000'>*</font></string>
+    <string name="enter1">Firstname LastName</string>
+    <string name="welcome">Welcome to GeekByte!</string>
+    <string name="welcome2">Lets start by building your profile</string>
+    <string name="go">Lets go</string>
+    <string name="q4">What type of passenger are you?</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="max">(Upto 250 characters)</string>
+</resources>
